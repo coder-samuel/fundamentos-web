@@ -3,13 +3,13 @@
     padding: 0;
    }
    #corbgfooter {
-    background-color:#3c0044 ;
+    background-color:#00238b ;
    }
 
 .menu {
     width: 100%;
     height: 60.5px;
-    background: #3c0044;
+    background: #00238b;
     font-family: 'Calibri';
     font-weight: bold;
    }
@@ -26,7 +26,7 @@
    }
   
    .menu a {
-    background-color: #3c0044;
+    background-color: #00238b;
     padding: 20.5px;
     display: block;
     text-decoration: none;
@@ -36,18 +36,18 @@
   
    .menu a:hover {
     background-color: #d8a438;
-    color: #3c0044;
+    color: #00238b;
     border: 2px;
    }
 
    .menu a.cor:hover{
     background-color:#fff;
-    color: #3c0044;
+    color: #00238b;
     border: 2px;
    }
    .menu a.lista:hover{
     background-color:#fff;
-    color: #3c0044;
+    color: #00238b;
     border: 2px;
 
    }
@@ -67,11 +67,11 @@
    }
   
    .menu ul ul li a {
-    background-color: #3c0044; 
+    background-color: #00238b; 
    }
    label[for="bt_menu"] {
     padding: 5px;
-    background-color: #3c0044;
+    background-color: #00238b;
     color: #fff;
     font-family: 'Arial';
     text-align: center;
@@ -116,56 +116,56 @@
      max-height: 200px;
     }
    }
-    .justify{
-    text-align: justify;
-    }
-    .center {
-    
-        text-align: center;
-        padding: 25px;
-    }
-    .container {
-        display: flex;
-        flex-flow: row;
-        justify-content: center;
-        align-items: stretch;;
-    }
-    .p-30{
-        font-size: 24px;
-    }
-  .p-20{
-    padding: 20px;
+.justify{
+text-align: justify;
+}
+.center {
+
+    text-align: center;
+    padding: 25px;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: stretch;;
+}
+.p-30{
+    font-size: 24px;
+}
+.p-20{
+padding: 20px;
+}
+.p-30 {
+    padding: 30px;
+}
+.tm-social {
+    width: 50px;
+    height: 50px;
+ }
+ .tm-socialrango {
+    width: 52x;
+    height: 52px;
+ }
+
+ .mb-50{
+    margin-bottom: 50px;
+ }
+ .box {
+    display: flex;
   }
-    .p-30 {
-        padding: 30px;
-    }
-    .tm-social {
-        width: 50px;
-        height: 50px;
-     }
-     .tm-socialrango {
-        width: 52x;
-        height: 52px;
-     }
-
-     .mb-50{
-        margin-bottom: 50px;
-     }
-     .box {
-        display: flex;
-      }
-    /*
-    Estilos da página contacts.html
-    */
-    .ml-50 {
-        margin: 50px;
-       
-     } 
-    /*
-    Estilos da página texto.html
-    */
+/*
+Estilos da página contacts.html
+*/
+.ml-50 {
+    margin: 50px;
+   
+ } 
+/*
+Estilos da página texto.html
+*/
 
 
-      /*
-    Estilos da página sobre.html
-    */
+  /*
+Estilos da página sobre.html
+*/
